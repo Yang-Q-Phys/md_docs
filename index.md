@@ -9,10 +9,10 @@
 LaTeXインライン $A_\mu = 0$
 
 LaTeX
-$$
+\[
 g_{\mu\nu} = 
 \begin{pmatrix}
 H & 0 \\
 0 & 1
 \end{pmatrix}
-$$
+\]
