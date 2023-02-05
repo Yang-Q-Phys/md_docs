@@ -9,8 +9,11 @@
 LaTeXインライン $A_\mu = 0$
 
 LaTeXディスプレイ
-$$ g_{\mu\nu} = 
+
+$$
+g_{\mu\nu} = 
 \begin{pmatrix}
 H & 0 \\
 0 & 1
-\end{pmatrix} $$
+\end{pmatrix}
+$$
